@@ -31,4 +31,4 @@ By the end of the this project, we have made a Body Mass Index calculator. Based
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp complete by Luiz Silva.
+>This is a companion project to The App Brewery's Complete App Development Bootcamp completed by Luiz Silva.
